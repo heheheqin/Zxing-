@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/jan/Desktop/Zxing/android/build/intermediates/res/merged/debug/menu/encode.xml",
+        "source": "/Users/jan/Desktop/Zxing/android/src/main/res/menu/encode.xml"
+    },
+    {
+        "merged": "/Users/jan/Desktop/Zxing/android/build/intermediates/res/merged/debug/menu/capture.xml",
+        "source": "/Users/jan/Desktop/Zxing/android/src/main/res/menu/capture.xml"
+    },
+    {
+        "merged": "/Users/jan/Desktop/Zxing/android/build/intermediates/res/merged/debug/menu/history.xml",
+        "source": "/Users/jan/Desktop/Zxing/android/src/main/res/menu/history.xml"
+    }
+]

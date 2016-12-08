@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/jan/Desktop/Zxing/android/build/intermediates/res/merged/debug/layout-land/share.xml",
+        "source": "/Users/jan/Desktop/Zxing/android/src/main/res/layout-land/share.xml"
+    },
+    {
+        "merged": "/Users/jan/Desktop/Zxing/android/build/intermediates/res/merged/debug/layout-land/encode.xml",
+        "source": "/Users/jan/Desktop/Zxing/android/src/main/res/layout-land/encode.xml"
+    }
+]
