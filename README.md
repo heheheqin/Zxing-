@@ -3,3 +3,6 @@
 
 就可以启动谷歌官方的二维码扫描
 > startActivity(new Intent(context, CaptureActivity.class)); 
+
+***
+android目录下是lib，app目录下是简单例子
